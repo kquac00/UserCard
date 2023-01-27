@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: white;
+}
+.usercard {
+    border: 3px solid rgb(140, 136, 136);
+    width: 500px;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+#top {
+    background-color: rgb(17, 159, 170);
+    height: 80px;
+}
+#bottom {
+    background-color: white;
+    height: 180px;
+}
+#userlogo {
+    height: 75px;
+    position: absolute;
+    top: 140px;
+    margin-left: 20px;
+}
+#maplogo {
+    height: 18px;
+    margin-left: 20px;
+}
+#gearicon {
+    height: 15px;
+    margin-left: 20px;
+}
+h1 {
+    font-size: 25px;
+    padding: 25px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+h3 {
+    font-size: 14px;
+    margin: 5px;
+    margin-left: 20px;
+}
+.link {
+    font-size: 13px;
+}
